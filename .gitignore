@@ -58,8 +58,8 @@ typings/
 .env
 
 coverage
-build
-dist
+#build
+#dist
 node_modules
 stats.json
 
